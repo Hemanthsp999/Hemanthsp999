@@ -1,7 +1,7 @@
 # Hi 👋, I'm Hemanth S P,
 <b> Dedicated to learn and contributing to a team environment. </b>
 <br/>
-<b>You can reach me on [Email](hemanth.sp03@gmail.com)</b>
+<b>You can reach me at [Email](hemanth.sp03@gmail.com)</b>
 
 <hr/>
 

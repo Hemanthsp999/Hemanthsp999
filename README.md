@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm sam</h1>
+<h1 align="center">Hi 👋, I'm Hemanth S P</h1>
 <h3 align="center">Passion for tech, commitment to teamwork. Let’s make it happen!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemanthsp999" alt="hemanthsp999" /></a> </p>

@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemanthsp999" alt="hemanthsp999" /></a> </p>
 
-- 🔭 I’m currently working on [LinRegC: A Simple Linear Regression Library in C](https://github.com/Hemanthsp999/LinRegC)
+- 🔭 I’m currently working on [TheraBot: AI mental health companion with Therapist recommendations](https://github.com/Hemanthsp999/TheraBot)
 
 - 📫 How to reach me **hemanth.sp03@gmail.com**
 
